@@ -3,10 +3,10 @@
 | Proje Bilgileri |                                           |
 |-----------------|-------------------------------------------|
 | Öğretim Üyesi   | Öğr.Üyesi Keyvan Arasteh                 |
-| Ders            | [DERS KODU] - [DERS ADI]                 |
+| Ders            | BGT104 - Açık Kaynak İşletim Sistmleri   |
 | Kurum          | İstinye Üniversitesi - Meslek Yüksekokulu |
-| Öğrenci No     | [ÖĞRENCİ NUMARASI]                       |
-| Öğrenci        | [AD SOYAD]                               |
+| Öğrenci No     | 2420191041                                |
+| Öğrenci        | Ramazan Akçelik                           |
 
 ## 📝 Proje Açıklaması
 
@@ -64,12 +64,12 @@ proje-adi/
 
 ## 📫 İletişim
 
-- GitHub: [@github_kullanici_adi](https://github.com/github_kullanici_adi)
-- E-posta: ornek@email.com
+- GitHub: @github_44treasurerhttps://github.com/44treasurer
+- E-posta: ramazanakcelik7@gmail.com
 
 ## 📝 Lisans
 
 Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ---
-© 2024 [AD SOYAD]. Tüm hakları saklıdır.
+© 2024 Ramazan Akçelik Tüm hakları saklıdır.
